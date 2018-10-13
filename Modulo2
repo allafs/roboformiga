@@ -1,0 +1,2 @@
+O Módulo 2 se relaciona ao sensor de Distância para balizar a movimentação do robô.
+Optei pelo sensor ultrassônico HC-SR04 movimentado por um Micro Servo motor SG90.

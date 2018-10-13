@@ -1,0 +1,6 @@
+O desafio proposto é a construção de robôs autônomos que consigam mapear um determinado ambiente.
+O mapeamento consiste em explorar o ambiente, encontrar saídas, saber retornar à entrada e se for o caso, localizar pontos específicos.
+Os robôs devem ser capazes de comunicar ente sí, decidirem de modo autonomo e compartilhado a exploração do ambiente.
+Deverão também transmitiram as informações do ambiente para um dispositivo central (software/hardware) que apresentará a conformação geral.
+O dispositivo central também poderá emitir novos objetivos e ações.
+Poderão ser utilizados diversos sensores, menos GPS ou dispositivos que indiquem a posição global do robô.

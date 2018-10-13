@@ -1,2 +1,3 @@
 O Módulo 2 se relaciona ao sensor de Distância para balizar a movimentação do robô.
 Optei pelo sensor ultrassônico HC-SR04 movimentado por um Micro Servo motor SG90.
+Neste Módulo estão os esquemas de montagem do sensor no Garagino e os arquivos .ino (Arduino) e .aia (App Inventor)
